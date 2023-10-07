@@ -1,0 +1,3 @@
+module define
+
+go 1.21.1
